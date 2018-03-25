@@ -1,0 +1,15 @@
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\HeadUnitTests.XUnit.deps.json
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\HeadUnitTests.XUnit.runtimeconfig.json
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\HeadUnitTests.XUnit.runtimeconfig.dev.json
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\HeadUnitTests.XUnit.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\HeadUnitTests.XUnit.pdb
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\obj\Debug\netcoreapp2.0\HeadUnitTests.XUnit.csproj.CoreCompileInputs.cache
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\obj\Debug\netcoreapp2.0\HeadUnitTests.XUnit.AssemblyInfoInputs.cache
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\obj\Debug\netcoreapp2.0\HeadUnitTests.XUnit.AssemblyInfo.cs
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\obj\Debug\netcoreapp2.0\HeadUnitTests.XUnit.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\obj\Debug\netcoreapp2.0\HeadUnitTests.XUnit.pdb
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll

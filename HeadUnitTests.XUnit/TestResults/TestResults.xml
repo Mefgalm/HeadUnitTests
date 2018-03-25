@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="03/25/2018 16:02:33">
+  <assembly name="C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\bin\Debug\netcoreapp2.0\HeadUnitTests.XUnit.dll" run-date="2018-03-25" run-time="16:02:33" total="2" passed="2" failed="0" skipped="0" time="0.009" errors="0">
+    <errors />
+    <collection total="2" passed="2" failed="0" skipped="0" name="Test collection for HeadUnitTests.XUnit.UnitTest1" time="0.009">
+      <test name="HeadUnitTests.XUnit.UnitTest1.Test1" type="HeadUnitTests.XUnit.UnitTest1" method="Test1" time="0.0080000" result="Pass">
+        <source-file>C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\UnitTest1.cs</source-file>
+        <source-line>10</source-line>
+        <traits />
+      </test>
+      <test name="HeadUnitTests.XUnit.UnitTest1.Test2" type="HeadUnitTests.XUnit.UnitTest1" method="Test2" time="0.0010000" result="Pass">
+        <source-file>C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests.XUnit\UnitTest1.cs</source-file>
+        <source-line>16</source-line>
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

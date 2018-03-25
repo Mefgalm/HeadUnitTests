@@ -1,0 +1,10 @@
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\bin\Debug\netcoreapp2.0\HeadUnitTests.deps.json
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\bin\Debug\netcoreapp2.0\HeadUnitTests.runtimeconfig.json
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\bin\Debug\netcoreapp2.0\HeadUnitTests.runtimeconfig.dev.json
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\bin\Debug\netcoreapp2.0\HeadUnitTests.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\bin\Debug\netcoreapp2.0\HeadUnitTests.pdb
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\obj\Debug\netcoreapp2.0\HeadUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\obj\Debug\netcoreapp2.0\HeadUnitTests.AssemblyInfoInputs.cache
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\obj\Debug\netcoreapp2.0\HeadUnitTests.AssemblyInfo.cs
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\obj\Debug\netcoreapp2.0\HeadUnitTests.dll
+C:\Users\mefga\RiderProjects\HeadUnitTests\HeadUnitTests\obj\Debug\netcoreapp2.0\HeadUnitTests.pdb
